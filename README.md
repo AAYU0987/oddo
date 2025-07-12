@@ -2,6 +2,11 @@
 
 Team 0135
 
+Team Member:-
+Name-Sushant Rout
+Email-Sushant.202204067@tulas.edu.in
+Phone-7209558552
+
 LIVE PREVIEW:- https://stellar-pavlova-6ec5df.netlify.app/
 
 ## 🚀 Problem Statement 3
